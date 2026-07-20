@@ -6,7 +6,7 @@ This is the open-source workflow for the paper ***Robust Transfer Learning for B
 
 This repo aims at **transfer learning** for chemical experiment design via Bayesian Optimization based on [BayBE](https://emdgroup.github.io/baybe/0.12.0/) software.
 
-Hidden-space featurization (HSF) for molecules, and an adaptive length scale hyperprior (CHEN prior) for Gaussian process are used. See our recent work ([paper](https://doi.org/10.1021/acs.jctc.6c00251), [code](https://github.com/chimie-paristech-CTM/HSF-ChemBO)) and also [BayBE](https://emdgroup.github.io/baybe/stable/components/surrogates.html#presets) for their details.
+Hidden-space featurization (HSF) for molecules, and an adaptive length scale hyperprior (CHEN prior) for Gaussian process are used. See our recent work ([paper](https://doi.org/10.1021/acs.jctc.6c00251), [workflow](https://github.com/chimie-paristech-CTM/HSF-ChemBO), [tutorial](https://github.com/chimie-paristech-CTM/HSF-ChemBO-tutorial)) and also [BayBE](https://emdgroup.github.io/baybe/stable/components/surrogates.html#presets) for their details.
 
 ## To Start
 
