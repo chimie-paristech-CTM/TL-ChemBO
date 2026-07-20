@@ -10,8 +10,8 @@ Hidden-space featurization (HSF) for molecules, and an adaptive length scale hyp
 
 ## To Start
 
-- Install packages in `requirements.txt` (pip is recommended).
-- **Cache pre-trained models** through `python cache_pretrained_model.py`.
+- Install packages in `requirements.txt` (pip is recommended) with Python 3.11.
+- **Cache pre-trained models** through `python cache_pretrained_model.py` for molecular representations.
 - Launch an experiment through `transfer_loop.py`. Use `run.sh`for example.
 - If you use **SLURM**, run `transfer_shields.sh` in the *scripts* folder to test more scenarios in parallel.
 - Results are saved in `./output`.
