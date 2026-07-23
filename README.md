@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is the open-source workflow for the paper ***Robust Transfer Learning for Bayesian Optimization of Chemical Reactions***. For a detailed tutorial, see another [repo](https://github.com/chimie-paristech-CTM/TL-ChemBO-tutorial).
+This is the open-source workflow for the paper ***Robust Transfer Learning for Bayesian Optimization of Chemical Reactions***. 
 
 This repo aims at **transfer learning** for chemical experiment design via Bayesian Optimization based on [BayBE](https://emdgroup.github.io/baybe/0.12.0/) software.
 
