@@ -1,6 +1,6 @@
 # TL-ChemBO
 
-`[![DOI](https://zenodo.org/badge/1306437235.svg)](https://doi.org/10.5281/zenodo.22031711)`
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22031711.svg)](https://doi.org/10.5281/zenodo.22031711)
 
 ## Introduction
 
