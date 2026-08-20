@@ -1,8 +1,10 @@
 # TL-ChemBO
 
+`[![DOI](https://zenodo.org/badge/1306437235.svg)](https://doi.org/10.5281/zenodo.22031711)`
+
 ## Introduction
 
-This is the open-source workflow for the paper ***Robust Transfer Learning for Bayesian Optimization of Chemical Reactions***. 
+This is the open-source workflow for the paper ***Robust Transfer Learning for Bayesian Optimization of Chemical Reactions***.
 
 This repo aims at **transfer learning** for chemical experiment design via Bayesian Optimization based on [BayBE](https://emdgroup.github.io/baybe/0.12.0/) software.
 
